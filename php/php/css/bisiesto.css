@@ -1,0 +1,77 @@
+body                       {
+   margin-left:50px;
+   margin-right:50px;
+   overflow:hidden;
+   /* background:#f8f16d url(bg/butterflybg1280x800.jpg); */     
+}
+
+#background.source-image   {
+   width: 100%;
+   position: absolute;
+   top: 0;
+   left: 0;
+   z-index:-100;
+}
+
+hr                         {
+   border:2px ridge Purple;
+   height:6px;
+   background-color:Orange;     
+}
+
+fieldset                   {
+   width:200px;
+   margin:auto;
+   padding:1em;
+   border:1px solid #ccc;
+   background-color:#F9E9CC;
+}
+
+label, legend              {
+   font:bold 85.5%/1 "Myriad Pro",Frutiger,"Lucida Sans",sans-serif;
+   color:Purple;
+}
+
+label                      {
+   float:left;     
+}    
+
+.On                        {
+   border:6px outset Purple;
+   background-color:Orange;
+   color:Purple;
+   font:bold 22pt "Arial Black";
+}     
+
+.Off                       {
+   border:6px outset Orange;
+   background-color:Purple;
+   color:Orange;
+   font:bold 22pt "Arial Black";     
+}
+
+#year                      {
+   float:right;
+   font:bold 78.5%/1 Frutiger,sans-serif;
+   color:Green; 
+}
+
+#year:hover, #year:focus   {
+   background-color:#FCCFE9;
+}
+
+#enviar                    {
+   width:40%;
+   background-color:#669933;
+   font:bold 80.5%/1 Frutiger,sans-serif;
+   color:Yellow;
+}
+
+#enviar:hover              {
+   background-color:Orange;
+   color:Purple;
+}
+
+p.bisiesto                 {
+   background:#F8F16D;
+}

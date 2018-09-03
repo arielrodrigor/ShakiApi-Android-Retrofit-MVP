@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Guia_3_Paises.iml" filepath="$PROJECT_DIR$/Guia_3_Paises.iml" />
+      <module fileurl="file://C:\xampp\htdocs\php\Guia_3_Paises\Guia_3_Paises.iml" filepath="C:\xampp\htdocs\php\Guia_3_Paises\Guia_3_Paises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\xampp\htdocs\php\Guia_3_Paises\app\app.iml" filepath="C:\xampp\htdocs\php\Guia_3_Paises\app\app.iml" />
+    </modules>
+  </component>
+</project>

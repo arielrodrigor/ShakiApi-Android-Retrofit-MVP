@@ -1,0 +1,60 @@
+/* Importar fuente Oswald de Google */
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+
+body     {
+    font-size: 16px;
+    background-image: url(../img/flux-bg.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+
+header h1 {
+    color: #B900CC;
+    font-family: 'Oswald';
+    font-size: 4em;
+    line-height: 1em;
+    text-align: center;
+    text-shadow:1px 1px rgba(220,215,90,.8), 
+                2px 2px rgba(225,220,90,.8),
+                3px 3px rgba(230,225,90,.8),
+                4px 4px rgba(235,230,90,.8),
+                5px 5px rgba(240,235,90,.8);
+}
+
+caption  {
+    /* Old browsers */
+    background: #813f84;
+    /* FF3.6+ */
+    background: -moz-linear-gradient(-45deg, #813f84 0%, #89327c 50%, #7b0087 51%, #4e1554 100%);
+    /* Chrome,Safari4+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#813f84), color-stop(50%,#89327c), color-stop(51%,#7b0087), color-stop(100%,#4e1554));
+    /* Chrome10+,Safari5.1+ */
+    background: -webkit-linear-gradient(-45deg, #813f84 0%,#89327c 50%,#7b0087 51%,#4e1554 100%);
+    /* Opera 11.10+ */
+    background: -o-linear-gradient(-45deg, #813f84 0%,#89327c 50%,#7b0087 51%,#4e1554 100%);
+    /* IE10+ */
+    background: -ms-linear-gradient(-45deg, #813f84 0%,#89327c 50%,#7b0087 51%,#4e1554 100%);
+    /* W3C */
+    background: linear-gradient(135deg, #813f84 0%,#89327c 50%,#7b0087 51%,#4e1554 100%);
+    /* IE6-9 fallback on horizontal gradient */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#813f84', endColorstr='#4e1554',GradientType=1);
+    font-family:Helvetica,monoscope,sans-serif;
+    font-size:11pt;
+    font-weight:bold;
+    font-style:italic;
+    color:Lavender;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td    {
+    background: #FADCFF;
+    border-collapse:collapse;
+    border-width:2px;
+    border-style:ridge;
+    border-color:maroon;
+    font: normal 0.9em "Lucida Sans",Helvetica,sans-serif;
+    padding: 0.25em 0.2em;
+}
