@@ -12,7 +12,7 @@ public class Albums {
 	@SerializedName("name")
 	private String name;
 
-	@SerializedName("Songs")
+	@SerializedName("songs")
 	private List<String> songs;
 
 	public void setYear(int year){
