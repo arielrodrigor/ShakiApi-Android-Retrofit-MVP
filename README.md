@@ -2,7 +2,7 @@
 Ejemplo Android
 =======================================================
 
-Este repositorio es un ejemplo de android para la univeridad sobre una aplicación que consuma apis con el patron de diseño MVP
+Este repositorio es un ejemplo de android para la univeridad sobre una aplicación que consuma apis con el patron de diseño MVP con tematica de las canciones de shakira.
 
 Librerias:
 
